@@ -131,7 +131,7 @@ export const projects = [
   {
     title: "Mozalink",
     description: `Mozalink é uma plataforma dedicada a conectar talentos a oportunidades. Com uma abordagem inovadora, a plataforma visa criar um ambiente onde os indivíduos possam descobrir e serem descobertos, facilitando a conexão entre talentos promissores e oportunidades empolgantes. Seja você um profissional em busca de novos horizontes ou uma empresa em busca de talento, Findizi está aqui para simplificar e potencializar o processo de descoberta.`,
-    visit: "https://wwww.mozalink.com",
+    visit: "https://mozalink.com",
     github: null,
     image: "/mozalink.jpeg",
   },
