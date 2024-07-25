@@ -129,6 +129,13 @@ export const experiences = [
 //projects
 export const projects = [
   {
+    title: "Mozalink",
+    description: `Mozalink é uma plataforma dedicada a conectar talentos a oportunidades. Com uma abordagem inovadora, a plataforma visa criar um ambiente onde os indivíduos possam descobrir e serem descobertos, facilitando a conexão entre talentos promissores e oportunidades empolgantes. Seja você um profissional em busca de novos horizontes ou uma empresa em busca de talento, Findizi está aqui para simplificar e potencializar o processo de descoberta.`,
+    visit: "https://wwww.mozalink.com",
+    github: null,
+    image: "/mozalink.jpeg",
+  },
+  {
     title: "BARN (ERP)",
     description: `Barn é a solução inovadora para gerenciar estoque e marcar serviços. Simplifique o controle de inventário e mantenha suas operações claras e precisas em tempo real.
 
@@ -214,13 +221,7 @@ export const projects = [
     private: true,
   },
 
-  {
-    title: "Findizi",
-    description: `Findizi é uma plataforma dedicada a conectar talentos a oportunidades. Com uma abordagem inovadora, a plataforma visa criar um ambiente onde os indivíduos possam descobrir e serem descobertos, facilitando a conexão entre talentos promissores e oportunidades empolgantes. Seja você um profissional em busca de novos horizontes ou uma empresa em busca de talento, Findizi está aqui para simplificar e potencializar o processo de descoberta.`,
-    visit: "https://findizi.vercel.app/",
-    github: null,
-    image: "/findizi2.jpg",
-  },
+
 ];
 
 export const uses = [
