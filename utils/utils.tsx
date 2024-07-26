@@ -142,7 +142,7 @@ export const projects = [
     Nossa plataforma também permite que empresas e indivíduos criem e gerenciem ofertas de serviços, facilitando reservas.
     
     Melhore a eficiência do seu estoque e expanda suas oportunidades de negócios com Barn. Comece hoje e transforme sua gestão com Barn!`,
-    visit: "https://barni-app-production.up.railway.app/",
+    visit: "https://barni.vercel.app/login",
     github: null,
     image: "/barn.jpg",
     private: false,
