@@ -104,7 +104,7 @@ export const experiences = [
     logo: "/logo3.png",
     name: "Banco Futuro MCB",
     position: "Analista de TI (Desenvolvedor)",
-    time: "2024 - actualmente • 1 month",
+    time: "2024 - actualmente ",
   },
   {
     logo: "/growskills.jpeg",
