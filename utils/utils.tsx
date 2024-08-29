@@ -129,6 +129,21 @@ export const experiences = [
 //projects
 export const projects = [
   {
+    title: "Preachluck",
+    description: `PreachLuck é uma plataforma informativa e interativa criada para os jovens da Igreja Shekinah, com o objetivo de fortalecer a fé e a comunhão. Além de fornecer conteúdos espirituais relevantes, como sermões, estudos bíblicos e devocionais, a PreachLuck também integra elementos de gamificação para incentivar o engajamento e a participação ativa dos membros. Os jovens podem competir entre si em desafios espirituais, acompanhar seu progresso, e ganhar prêmios e reconhecimentos dentro da comunidade. A plataforma é um espaço seguro e acolhedor, onde os jovens podem compartilhar suas experiências, dúvidas e crescer espiritualmente juntos..`,
+    visit: "https://preachluck.vercel.app",
+    github: null,
+    image: "/preachluck.png",
+  },
+  {
+    title: "Trafegotop (Growskills)",
+    description: `TrafegoTop é uma inovadora plataforma pertencente a Growskills e desenvolvida sob a custódia da empresa Growskills. Projetada com o objetivo de auxiliar as pessoas nos estudos para exames de condução, oferece uma abordagem eficiente e acessível para a preparação, tornando o processo de aprendizado mais intuitivo e eficaz.`,
+    visit: "https://trafegotop.app",
+    github: null,
+    image: "/trafegotop.jpg",
+    private: false,
+  },
+  {
     title: "Mozalink",
     description: `Mozalink é uma plataforma dedicada a conectar talentos a oportunidades. Com uma abordagem inovadora, a plataforma visa criar um ambiente onde os indivíduos possam descobrir e serem descobertos, facilitando a conexão entre talentos promissores e oportunidades empolgantes. Seja você um profissional em busca de novos horizontes ou uma empresa em busca de talento, Findizi está aqui para simplificar e potencializar o processo de descoberta.`,
     visit: "https://www.mozalink.com",
@@ -147,14 +162,7 @@ export const projects = [
     image: "/barn.jpg",
     private: false,
   },
-  {
-    title: "Trafegotop (Growskills)",
-    description: `TrafegoTop é uma inovadora plataforma pertencente a Growskills e desenvolvida sob a custódia da empresa Growskills. Projetada com o objetivo de auxiliar as pessoas nos estudos para exames de condução, oferece uma abordagem eficiente e acessível para a preparação, tornando o processo de aprendizado mais intuitivo e eficaz.`,
-    visit: "https://trafegotop.app",
-    github: null,
-    image: "/trafegotop.jpg",
-    private: false,
-  },
+
   {
     title: "Tabby",
     description: `Tabby simplifica o gerenciamento de mesas em restaurantes, permitindo que os funcionários vejam rapidamente as mesas ocupadas, disponíveis e em processo de limpeza. Com uma interface intuitiva, os usuários podem atualizar o status das mesas, fazer reservas e otimizar a distribuição dos clientes, melhorando a eficiência do serviço e a experiência dos clientes.`,
@@ -220,8 +228,6 @@ export const projects = [
     image: "/futuro.jpg",
     private: true,
   },
-
-
 ];
 
 export const uses = [
